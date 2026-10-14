@@ -1,0 +1,6 @@
+../Core/Drivers/Modbus_ClientParser.c:28:7:MB_Client_Parser	7
+../Core/Drivers/Modbus_ClientParser.c:61:14:MB_ParseReadHoldingRegisters	3
+../Core/Drivers/Modbus_ClientParser.c:90:14:MB_ParseReadInputRegisters	3
+../Core/Drivers/Modbus_ClientParser.c:116:14:MB_ParseReadCoils	4
+../Core/Drivers/Modbus_ClientParser.c:143:14:MB_ParseReadDiscreteInputs	4
+../Core/Drivers/Modbus_ClientParser.c:170:14:MB_ParseException	5

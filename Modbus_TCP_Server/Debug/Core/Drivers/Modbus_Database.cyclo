@@ -1,0 +1,11 @@
+../Core/Drivers/Modbus_Database.c:25:7:MB_FC01_ReadCoils	8
+../Core/Drivers/Modbus_Database.c:88:7:MB_FC02_ReadDisInputs	8
+../Core/Drivers/Modbus_Database.c:150:7:MB_FC03_ReadHoldingRegisters	6
+../Core/Drivers/Modbus_Database.c:210:7:MB_FC04_ReadInputRegisters	6
+../Core/Drivers/Modbus_Database.c:269:7:MB_FC05_WriteSingleCoil	5
+../Core/Drivers/Modbus_Database.c:323:7:MB_FC06_WriteSingleRegister	3
+../Core/Drivers/Modbus_Database.c:369:7:MB_FC07_ReadExceptionStatus	1
+../Core/Drivers/Modbus_Database.c:373:7:MB_FC15_WriteMultipleCoils	9
+../Core/Drivers/Modbus_Database.c:441:7:MB_FC16_WriteMultipleRegisters	6
+../Core/Drivers/Modbus_Database.c:508:6:MB_UpdateInputRegisters	1
+../Core/Drivers/Modbus_Database.c:515:6:MB_updateCoils	1

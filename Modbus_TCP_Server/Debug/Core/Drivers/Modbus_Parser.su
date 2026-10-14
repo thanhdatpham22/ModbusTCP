@@ -1,0 +1,5 @@
+../Core/Drivers/Modbus_Parser.c:20:7:MB_Parser	40	static
+../Core/Drivers/Modbus_Parser.c:42:14:MB_ParseRequest	24	static
+../Core/Drivers/Modbus_Parser.c:75:14:MB_ProcessFunction	16	static
+../Core/Drivers/Modbus_Parser.c:104:7:MB_SendException	40	static
+../Core/Drivers/Modbus_Parser.c:141:13:MB_PrintHex	24	static

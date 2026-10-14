@@ -1,0 +1,4 @@
+../Core/Drivers/Modbus_ClientRequest.c:14:7:MB_ReadHoldingRegisters	1
+../Core/Drivers/Modbus_ClientRequest.c:53:7:MB_ReadInputRegisters	1
+../Core/Drivers/Modbus_ClientRequest.c:91:7:MB_ReadCoils	1
+../Core/Drivers/Modbus_ClientRequest.c:132:7:MB_ReadDiscreteInputs	1

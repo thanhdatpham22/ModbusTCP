@@ -1,0 +1,5 @@
+../Core/Drivers/Modbus_Parser.c:20:7:MB_Parser	2
+../Core/Drivers/Modbus_Parser.c:42:14:MB_ParseRequest	3
+../Core/Drivers/Modbus_Parser.c:75:14:MB_ProcessFunction	9
+../Core/Drivers/Modbus_Parser.c:104:7:MB_SendException	2
+../Core/Drivers/Modbus_Parser.c:141:13:MB_PrintHex	3

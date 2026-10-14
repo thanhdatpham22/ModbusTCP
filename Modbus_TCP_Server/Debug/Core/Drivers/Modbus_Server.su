@@ -1,0 +1,5 @@
+../Core/Drivers/Modbus_Server.c:19:7:Modbus_Server_Init	16	static
+../Core/Drivers/Modbus_Server.c:62:14:tcp_server_accept	24	static
+../Core/Drivers/Modbus_Server.c:77:14:tcp_server_recv	296	static
+../Core/Drivers/Modbus_Server.c:104:13:tcp_server_error	16	static
+../Core/Drivers/Modbus_Server.c:113:13:tcp_server_connection_close	16	static

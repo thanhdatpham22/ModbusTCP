@@ -1,0 +1,11 @@
+../Core/Drivers/Modbus_Database.c:25:7:MB_FC01_ReadCoils	304	static
+../Core/Drivers/Modbus_Database.c:88:7:MB_FC02_ReadDisInputs	304	static
+../Core/Drivers/Modbus_Database.c:150:7:MB_FC03_ReadHoldingRegisters	288	static
+../Core/Drivers/Modbus_Database.c:210:7:MB_FC04_ReadInputRegisters	288	static
+../Core/Drivers/Modbus_Database.c:269:7:MB_FC05_WriteSingleCoil	40	static
+../Core/Drivers/Modbus_Database.c:323:7:MB_FC06_WriteSingleRegister	32	static
+../Core/Drivers/Modbus_Database.c:369:7:MB_FC07_ReadExceptionStatus	16	static
+../Core/Drivers/Modbus_Database.c:373:7:MB_FC15_WriteMultipleCoils	48	static
+../Core/Drivers/Modbus_Database.c:441:7:MB_FC16_WriteMultipleRegisters	40	static
+../Core/Drivers/Modbus_Database.c:508:6:MB_UpdateInputRegisters	16	static
+../Core/Drivers/Modbus_Database.c:515:6:MB_updateCoils	8	static
